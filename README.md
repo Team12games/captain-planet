@@ -8,3 +8,8 @@ Instrction for devs:
     
     
   
+Asset Link:
+    Sound:
+    #1 https://bleeoop.itch.io/interface-bleeps
+    UI:
+    #1 https://wenrexa.itch.io/nesia01
